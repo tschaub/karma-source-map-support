@@ -4,7 +4,7 @@ Karma plugin for inline sourcemap support.
 
 ## Motivation
 
-When loading Browserify bundles with inline source maps (via [`karma-browserify`](https://www.npmjs.com/package/karma-browserify)), the stack traces in Chrome don't mention the original modules.  This plugin uses `source-map-support` to improve the situation.
+When loading Browserify bundles with inline source maps (via [`karma-browserify`](https://www.npmjs.com/package/karma-browserify)), the stack traces in Chrome don't mention the original modules.  This plugin uses [`source-map-support`](https://www.npmjs.com/package/source-map-support) to improve the situation.
 
 ## Use
 
