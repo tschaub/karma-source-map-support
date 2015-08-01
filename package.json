@@ -25,10 +25,5 @@
   "bugs": {
     "url": "https://github.com/tschaub/karma-source-map-support/issues"
   },
-  "licenses": [
-    {
-      "type": "MIT",
-      "url": "http://tschaub.mit-license.org/"
-    }
-  ]
+  "license": "MIT"
 }
