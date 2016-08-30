@@ -25,5 +25,18 @@
   "bugs": {
     "url": "https://github.com/tschaub/karma-source-map-support/issues"
   },
-  "license": "MIT"
+  "license": "MIT",
+  "scripts": {
+    "test": "eslint lib"
+  },
+  "eslintConfig": {
+    "extends": "tschaub",
+    "globals": {
+      "sourceMapSupport": false
+    }
+  },
+  "devDependencies": {
+    "eslint": "^3.4.0",
+    "eslint-config-tschaub": "^5.0.0"
+  }
 }
