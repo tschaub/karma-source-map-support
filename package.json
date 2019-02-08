@@ -1,6 +1,6 @@
 {
   "name": "karma-source-map-support",
-  "version": "1.3.0",
+  "version": "1.4.0",
   "description": "Karma plugin for inline sourcemap support",
   "main": "lib/index.js",
   "dependencies": {
