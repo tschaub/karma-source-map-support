@@ -12,7 +12,7 @@ When loading Browserify bundles with inline source maps (via [`karma-browserify`
 
 Install the plugin with `npm`:
 
-    npm install karma-source-map-support
+    npm install --save-dev karma-source-map-support
 
 Configure Karma to load the plugin as a framework:
 
